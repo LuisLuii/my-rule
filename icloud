@@ -1,0 +1,6 @@
+DOMAIN-KEYWORD, icloud-content.com
+DOMAIN-KEYWORD, icloud.com
+
+
+PROCESS-NAME, /usr/libexec/nsurlsessiond
+PROCESS-NAME, /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
